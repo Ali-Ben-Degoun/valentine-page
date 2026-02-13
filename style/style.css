@@ -6,15 +6,16 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
 
-  /* Local background image */
-  background-image: url("img/Daisy1.jpg");
+  /* Background image */
+  background: 
+    linear-gradient(rgba(252, 243, 242, 0.4), rgba(249, 29, 13, 0.4)),
+    url("img/Daisy1.jpg");
 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
 
 
 .container {
